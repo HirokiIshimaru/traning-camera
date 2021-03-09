@@ -1,0 +1,7 @@
+video,canvas{
+    border: solid 2px black;
+}
+button{
+    width: 100px;
+    height: 30px;
+}
